@@ -17,6 +17,8 @@ namespace HastaneKayit
         {
             InitializeComponent();
         }
+        
+        // * * * * * * * * * * * * * * * DEVELOPED BY caner24 * * * * * * * * * * * * * * * //
 
         // İlgili databese bağlantı işlemleri
 
